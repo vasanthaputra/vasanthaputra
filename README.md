@@ -1,6 +1,6 @@
 # Shiva Domala — AI-Native Product Portfolio
 
-I spent 19 years in information security & GRC (most recently VP at Wells Fargo; CISSP, CISM, ISO 27001 LI). Since April 2026 I have been building and operating production software full-time by directing AI coding agents — Claude Code for building, with Gemini and Grok as independent adversarial auditors of the same code. I own the product decisions, architecture trade-offs, verification, and security — the agents write the code, and I hold them to evidence.
+I spent 19 years in information security & GRC (most recently VP at Wells Fargo; CISSP, CISM, ISO 27001 LI). Since April 2026 I have been building and operating production software by directing AI coding agents — Claude Code for building, with Gemini and Grok as independent adversarial auditors of the same code. I own the product decisions, architecture trade-offs, verification, and security — the agents write the code, and I hold them to evidence.
 
 The product repos below are **private** (commercial / user-data-bearing code). This page is the tour; I'm happy to walk through any codebase, its test suite, or its security-audit history on a call.
 
