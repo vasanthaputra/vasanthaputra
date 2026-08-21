@@ -20,7 +20,7 @@ Forward-testing analytics SaaS for futures traders. Ingests TradingView / Trader
   - [Database egress storm — a distributed lock without fencing tokens](https://github.com/vasanthaputra/ai-portfolio/blob/main/postmortems/2026-07-database-egress-storm.md)
   - [Supervisor health-check killing live workers](https://github.com/vasanthaputra/ai-portfolio/blob/main/postmortems/2026-07-worker-healthcheck-kills.md)
 
-## <img src="assets/smarana-icon.png" width="28" alt="Smarana app icon"> Smarana — Sanskrit chant-learning app *(iOS + Android)*
+## <img src="assets/smarana-icon.png" width="28" alt="Smarana app icon"> Smaraṇa — Sanskrit chant-learning app *(iOS + Android)*
 
 Speech-recognition app that listens while you recite Vedic slokas and follows along in real time, highlighting where you are and where you slipped.
 
